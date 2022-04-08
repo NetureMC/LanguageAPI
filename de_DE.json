@@ -26,6 +26,8 @@
     "message.serverInMaintenance": "{PREFIX} §cDieser Server ist in §4Wartungsarbeiten§c.",
     "message.serverNotFound": "{PREFIX} §cDieser Server wurde nicht gefunden.",
     "message.rules": "§aNetureMC Regeln: \n\n§f1. §cBeleidigungen sind untersagt\n§f2. §cSpammen ist untersagt.\n§f3. §cNicht andere Leute unnötig pingen.\n§cMehr Regeln kommen bald....",
+    "message.nowAFK": "§6Dein Status wurde auf §cAFK §6gesetzt!",
+    "message.noLongerAFK": "§6Dein Status wure auf §aNicht mehr AFK §6gesetzt!",
     
     "broadcast.joinOurDiscord": "{PREFIX} §9Betrete unseren Discord noch Heute unter §6NetureMC.net/discord§9!",
     "broadcast.voteDaily": "{PREFIX} §9Vote jeden Tag unter §6NetureMC.net/vote§9, um tolle Belohnungen zu erhalten!",
