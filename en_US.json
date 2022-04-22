@@ -21,7 +21,7 @@
     "message.transferGunGame": "{PREFIX} §aYou are getting transfered to the server §6GunGame§a...",
     "message.transferGunGame": "{PREFIX} §aYou are getting transfered to the server §6Lobby§a...",
     "message.alreadyConnectedServer": "{PREFIX} §cYou already connected to this server.",
-    "message.serverIsOffline": "{PREFIX} §cThis server is offline §4Offline.",
+    "message.serverIsOffline": "{PREFIX} §cThis server is §4Offline.",
     "message.serverIsFull": "{PREFIX} §cThis server you want to transfer is §4full§c.",
     "message.serverInMaintenance": "{PREFIX} §cThis server is in §4Maintenance§c.",
     "message.serverNotFound": "{PREFIX} §cThis server was not found",
