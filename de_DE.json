@@ -5,13 +5,14 @@
   "contributors": ["NetureCrafter"],
   
   "values": {
+    "message.useIngame": "{PREFIX} §cBitte benutze diesen command in-game!",
+    "message.noPermission": "{PREFIX} §cDu hast keine Berechtigung, um diesen Befehl zu nutzen!",
+    
     "coins.mustBeNumeric": "",
     "coins.setCoins": "",
     "coins.removeCoins": "",
     "coins.addCoins": "",
     "coins.checkCoins": "",
-    
-    "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, um diesen Befehl zu nutzen!",
     
     "ui.title.teleporter": "Teleporter",
     
