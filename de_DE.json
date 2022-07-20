@@ -6,5 +6,7 @@
   
   "values": {
     "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, um diesen Befehl zu nutzen!",
+    
+    "ui.button.close": "§cSchließen"
   }
 }
