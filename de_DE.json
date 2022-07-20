@@ -5,6 +5,12 @@
   "contributors": ["NetureCrafter"],
   
   "values": {
+    "coins.mustBeNumeric": "",
+    "coins.setCoins": "",
+    "coins.removeCoins": "",
+    "coins.addCoins": "",
+    "coins.checkCoins: "",
+    
     "message.noPerms": "{PREFIX} §cDu hast keine Berechtigung, um diesen Befehl zu nutzen!",
     
     "ui.title.teleporter": "Teleporter",
