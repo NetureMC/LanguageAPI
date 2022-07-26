@@ -18,6 +18,9 @@
     "ui.title.rank": "Rang Management",
     "ui.title.invclear": "Inventar Löschen",
     
+    "ui.description.teleporter": "Wähle ein MiniGame:",
+    "ui.description.invclear": "Bist du sicher das du dein Inventar löschen möchtest?",
+    
     "ui.button.yes": "Ja",
     "ui.button.no": "Nein",
     "ui.button.close": "§cSchließen",
