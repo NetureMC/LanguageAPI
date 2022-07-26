@@ -25,6 +25,7 @@
     "command.description.day": "Setze die Zeit auf Nacht",
     "command.description.night": "Setzte die Zeit auf Tag",
     "command.description.itemid": "Finde deine derzeitige Item-ID heraus",
-    "command.description.perk": "Aktiviere verschiedene Vorteile"
+    "command.description.perk": "Aktiviere verschiedene Vorteile",
+    "command.description.xyz": "Finde deine derzeitige Position heraus"
   }
 }
