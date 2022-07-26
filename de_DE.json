@@ -15,6 +15,10 @@
     "coins.checkCoins": "",
     
     "ui.title.teleporter": "Teleporter",
+    "ui.title.invclear": "Inventar Löschen",
+    
+    "ui.button.yes": "Ja",
+    "ui.button.no": "Nein",
     "ui.button.close": "§cSchließen",
     "ui.button.back": "§cBack"
   }
