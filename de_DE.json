@@ -32,6 +32,7 @@
     "command.description.heal": "Heile dich",
     "command.description.registered players": "Finde heraus wie viele Spieler dem Netzwerk beigetreten sind",
     "command.description.citybuild": "Verbinde dich zum CityBuild server",
-    "command.description.gungame": "Verbinde dich zum GunGame server"
+    "command.description.gungame": "Verbinde dich zum GunGame server",
+    "command.description.rank": "Rang Management Command"
   }
 }
