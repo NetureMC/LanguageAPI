@@ -27,6 +27,8 @@
     "command.description.itemid": "Finde deine derzeitige Item-ID heraus",
     "command.description.perk": "Aktiviere verschiedene Vorteile",
     "command.description.xyz": "Finde deine derzeitige Position heraus",
+    "command.description.feed": "Füttere dich",
+    "command.description.heal": "Heile dich",
     "command.description.registered players": "Finde heraus wie viele Spieler dem Netzwerk beigetreten sind",
     "command.description.citybuild": "Verbinde dich zum CityBuild server",
     "command.description.gungame": "Verbinde dich zum GunGame server"
