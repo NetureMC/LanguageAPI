@@ -20,6 +20,9 @@
     "ui.button.yes": "Ja",
     "ui.button.no": "Nein",
     "ui.button.close": "§cSchließen",
-    "ui.button.back": "§cBack"
+    "ui.button.back": "§cBack",
+    
+    "command.description.day": "Setze die Zeit auf Nacht",
+    "command.description.night": "Setzte die Zeit auf Tag"
   }
 }
